@@ -1,0 +1,39 @@
+/* Spring 2023 */
+/* Created by: Bruce Elgort */
+
+/* Added classes for links due to failing WAVE Color Contrast test */
+
+body {
+    color: white;
+    background: #33333d;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 90px;
+    font-weight: 900;
+}
+
+h2 {
+    color: #ffb400;
+}
+
+.container {
+    margin-top: -90px;
+}
+
+ul {
+    list-style: disc outside none;
+    margin-left: 0;
+    padding-left: 2em;
+}
+
+li {
+    padding-left: 1em;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: white;
+    text-decoration: underline;
+}

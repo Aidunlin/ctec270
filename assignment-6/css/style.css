@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #f0e6e2;
+}
+
+h1 {
+    font-size: 3rem;
+    background: #c0d9f1;
+    color: #627d2b;
+}
+
+/* Used for the large image with the airplane */
+
+.backgroundimage {
+    background-image: url(https://images.unsplash.com/photo-1512100356356-de1b84283e18?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1009&q=80);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* Used by the smaller beach 🏖 pictures */
+
+.beaches {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}

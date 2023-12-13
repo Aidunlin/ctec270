@@ -1,0 +1,19 @@
+body {
+  display: grid;
+  gap: 8px;
+  grid-template-columns: 200px;
+  max-width: 720px;
+  margin: auto;
+}
+
+body>* {
+  border: 1px solid;
+}
+
+header {
+  grid-column-start: 2;
+}
+
+footer {
+  grid-column: span 2;
+}

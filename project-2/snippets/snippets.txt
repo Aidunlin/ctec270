@@ -1,0 +1,53 @@
+Fonts
+=====
+Body: font-family: 'Chivo', sans-serif
+h1: font-family: 'Lobster', cursive
+h1: has a text-shadow
+
+Color Palette
+=============
+Here are the colors used on this site:
+
+Green: #6a9a2e
+h1 "Plant and Garden Sale"  background #3a3b3c and color: #d8b99e
+Light grey page background: #e4e6eb
+Tan: #d8b99e
+Links in footer are #3a3b3c
+Links hover background color is background #6a9a2e and color #ffffff
+
+Cards Links:
+background: #87b1c3
+border: #87b1c3
+color: #ffffff
+
+SVG Social Icon Colors:
+Facebook #4267B2
+Instagram #8a3ab9
+Twitter #1DA1F2
+
+Linear gradient used in header
+===============================
+background: linear-gradient(180deg, rgba(135, 177, 195, 1) 0%, rgba(228, 230, 235, 1) 100%);
+
+Code Snippet 1 - Google Fonts for Lobster and Chivo.
+===================================================
+Lobster is used for the <h1> in the header.
+Chivo is used everywhere else.
+
+<!-- Google Font(s) -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Lobster&family=Roboto&display=swap" rel="stylesheet">
+
+Code Snippet 2 - Images
+===================================================
+Here are links for the 7 images used on the page. They are all images from Unsplash and are referneced
+using absolute links
+
+Shrubs https://images.unsplash.com/photo-1562773534-b536e07e1a66?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+Flowers https://images.unsplash.com/photo-1490750967868-88aa4486c946?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+Gift Shop https://images.unsplash.com/photo-1606226460010-94cb28c1f556?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+Roses https://images.unsplash.com/flagged/photo-1556084108-54bb68579f2c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+Trees https://images.unsplash.com/photo-1503785640985-f62e3aeee448?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1653&q=80
+House Plants https://images.unsplash.com/photo-1523575708161-ad0fc2a9b951?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+
+Nursery Picture https://images.unsplash.com/photo-1598902468171-0f50e32a7bf2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1567&q=80

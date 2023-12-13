@@ -1,0 +1,75 @@
+:root {
+  --page-bg: #e4e6eb;
+  --green: #6a9a2e;
+
+  --heading-bg: #3a3b3c;
+  --heading-color: #d8b99e;
+
+  --card-link-bg: #87b1c3;
+  --card-link-color: #ffffff;
+
+  --footer-link-bg: #3a3b3c;
+  --footer-link-hover-bg: var(--green);
+  --footer-link-hover-color: #ffffff;
+
+  --social-facebook: #4267b2;
+  --social-instagram: #8a3ab9;
+  --social-twitter: #1da1f2;
+}
+
+body {
+  background: var(--page-bg);
+  font-family: 'Chivo', sans-serif;
+  font-weight: 400;
+}
+
+header {
+  background: linear-gradient(180deg, rgba(135, 177, 195, 1) 0%, rgba(228, 230, 235, 1) 100%);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+h1 {
+  background: var(--heading-bg);
+  color: var(--heading-color);
+  font-family: 'Lobster', cursive;
+  font-size: 48px;
+  text-shadow: 0.125rem 0.125rem var(--green);
+}
+
+.green {
+  color: var(--green);
+}
+
+.card .btn {
+  background: var(--card-link-bg);
+  border: var(--card-link-bg);
+  color: var(--card-link-color);
+}
+
+.footer-link {
+  color: var(--footer-link-bg);
+  text-decoration: none;
+  padding: 4px;
+}
+
+.footer-link:hover {
+  background: var(--footer-link-hover-bg);
+  color: var(--footer-link-hover-color);
+}
+
+.social {
+  margin-right: 16px;
+}
+
+.facebook, .facebook:hover {
+  color: var(--social-facebook);
+}
+
+.instagram, .instagram:hover {
+  color: var(--social-instagram);
+}
+
+.twitter, .twitter:hover {
+  color: var(--social-twitter);
+}
